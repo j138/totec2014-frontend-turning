@@ -1,0 +1,42 @@
+[
+	{
+		"imgName": "shop_item_camera_canon",
+		"name": "Canonet G-III （CANON 40mm/F1.7）",
+		"summary": "All controls are nicely placed and readily accessible.There'll be more on my attached lens shade, below.",
+		"price": "1540",
+		"code": "AD592846",
+		"url": "#AD592846"
+	},
+	{
+		"imgName": "shop_item_camera_pen",
+		"name": "OLYMPUS PEN E-P5 Body Only",
+		"summary": "Powerful. Pocketable. PEN. A classic design with a modern flair.",
+		"price": "1080",
+		"code": "AD592847",
+		"url": "#AD592847"
+	},
+	{
+		"imgName": "shop_item_finder",
+		"name": "Voigtlander 35mm View Finder Metallic Silver",
+		"summary": "4.6cm x 4.4cm x 3.8cm 82g",
+		"price": "2307",
+		"code": "AD503837",
+		"url": "#AD503837"
+	},
+	{
+		"imgName": "shop_item_lens_leica",
+		"name": "Leica Summitar (Blue Coated) 50mm f2",
+		"summary": "This LEICA SUMMITAR 50mm f/2 was Leica's highest-performance normal lens from 1939 until it was replaced by the SUMMICRON in 1953.",
+		"price": "4400",
+		"code": "AD492748",
+		"url": "#AD492748"
+	},
+	{
+		"imgName": "shop_item_lens_olympus",
+		"name": "M.ZUIKO DIGITAL 17mm F1.8 & Lens hood",
+		"summary": "This lens is the ideal solution to this problem. ",
+		"price": "7300",
+		"code": "AD475837",
+		"url": "#AD402001"
+	}
+]
