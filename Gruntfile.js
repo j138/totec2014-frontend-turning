@@ -25,7 +25,6 @@ module.exports = function (grunt) {
         src : 'js/jquery-ui.js',
         src : 'js/jquery.cycle.all.js',
         src : 'js/jquery.heightLine.js',
-        src : 'js/jquery.smarttruncation.js',
 
 
         // concat無理だった
@@ -35,6 +34,7 @@ module.exports = function (grunt) {
         // src : 'js/jquery.maximage.js',
         // src : 'js/jquery.scrollto.js',
         // src : 'js/jquery.slides.js',
+        // src : 'js/jquery.smarttruncation.js',
         // src : 'js/jquery.smoothScroll.js',
         // 出力ファイルの指定
         dest: 'js/_jslibs.js'
