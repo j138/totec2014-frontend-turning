@@ -4,39 +4,39 @@ module.exports = function (grunt) {
     cssmin : {
       pc : {
         src : [
-          'css/bootstrap-theme.css',
-          'css/bootstrap.css',
-          'css/jquery-ui.css',
-          'css/jquery-ui.structure.css',
-          'css/jquery-ui.theme.css',
-          'css/jquery.bxslider.css',
-          'css/jquery.maximage.css',
-          'css/normalize.css',
-          'css/tabulous.css',
-          'css/main.css'
+          'c/bootstrap-theme.css',
+          'c/bootstrap.css',
+          'c/jquery-ui.css',
+          'c/jquery-ui.structure.css',
+          'c/jquery-ui.theme.css',
+          'c/jquery.bxslider.css',
+          'c/jquery.maximage.css',
+          'c/normalize.css',
+          'c/tabulous.css',
+          'c/main.css'
         ],
-        dest : 'css/build.min.css'
+        dest : 'c/all.css'
       }
     },
     concat: {
       files: {
         // 元ファイルの指定
-        // src : 'js/*.js',
-        src : 'js/jquery-ui.js',
-        src : 'js/jquery.cycle.all.js',
-        src : 'js/jquery.heightLine.js',
+        // src : 'j/*.js',
+        src : 'j/jquery-ui.js',
+        src : 'j/jquery.cycle.all.js',
+        src : 'j/jquery.heightLine.js',
 
         // concat無理だった
-        // src : 'js/jquery.bxslider.js',
-        // src : 'js/jquery.ellipsis.js',
-        // src: 'js/jquery.localscroll.js',
-        // src : 'js/jquery.maximage.js',
-        // src : 'js/jquery.scrollto.js',
-        // src : 'js/jquery.slides.js',
-        // src : 'js/jquery.smarttruncation.js',
-        // src : 'js/jquery.smoothScroll.js',
+        // src : 'j/jquery.bxslider.js',
+        // src : 'j/jquery.ellipsis.js',
+        // src: 'j/jquery.localscroll.js',
+        // src : 'j/jquery.maximage.js',
+        // src : 'j/jquery.scrollto.js',
+        // src : 'j/jquery.slides.js',
+        // src : 'j/jquery.smarttruncation.js',
+        // src : 'j/jquery.smoothScroll.js',
         // 出力ファイルの指定
-        dest: 'js/_jslibs.js'
+        dest: 'j/_jslibs.js'
       }
     },
 
@@ -44,14 +44,14 @@ module.exports = function (grunt) {
       dist: {
         files: {
           // 出力ファイル: 元ファイル
-          'js/_jslibs-min.js': 'js/_jslibs.js'
+          'j/_.js': 'j/_jslibs.js'
         }
       }
     },
 
     watch: {
       // js: {
-      //   files: 'js/*.js',
+      //   files: 'j/*.js',
       //   tasks: ['concat', 'uglify']
       // }
     }
