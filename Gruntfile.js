@@ -9,7 +9,6 @@ module.exports = function (grunt) {
                 src : 'js/jquery.cycle.all.js',
                 src : 'js/jquery.ellipsis.js',
                 src : 'js/jquery.heightLine.js',
-                src : 'js/jquery.localscroll.js',
                 src : 'js/jquery.maximage.js',
                 src : 'js/jquery.scrollto.js',
                 src : 'js/jquery.slides.js',
