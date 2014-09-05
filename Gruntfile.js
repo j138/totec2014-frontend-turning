@@ -26,7 +26,6 @@ module.exports = function (grunt) {
         src : 'js/jquery.cycle.all.js',
         src : 'js/jquery.heightLine.js',
 
-
         // concat無理だった
         // src : 'js/jquery.bxslider.js',
         // src : 'js/jquery.ellipsis.js',
@@ -51,10 +50,10 @@ module.exports = function (grunt) {
     },
 
     watch: {
-      js: {
-        files: 'js/*.js',
-        tasks: ['concat', 'uglify']
-      }
+      // js: {
+      //   files: 'js/*.js',
+      //   tasks: ['concat', 'uglify']
+      // }
     }
   });
 
