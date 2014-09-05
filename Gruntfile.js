@@ -8,8 +8,9 @@ module.exports = function (grunt) {
                 src : 'js/jquery-ui.js',
                 src : 'js/jquery.cycle.all.js',
                 src : 'js/jquery.heightLine.js',
+
                 
-                // concat候補
+                // concat無理だった
                 // src : 'js/jquery.bxslider.js',
                 // src : 'js/jquery.ellipsis.js',
                 // src: 'js/jquery.localscroll.js',
@@ -19,7 +20,7 @@ module.exports = function (grunt) {
                 // src : 'js/jquery.smarttruncation.js',
                 // src : 'js/jquery.smoothScroll.js',
                 // 出力ファイルの指定
-                dest: 'js/_jqlibs.js'
+                dest: 'js/_jslibs.js'
             }
         },
 
@@ -27,7 +28,7 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     // 出力ファイル: 元ファイル
-                    'js/_jqlibs-min.js': 'js/_jqlibs.js'
+                    'js/_jslibs-min.js': 'js/_jslibs.js'
                 }
             }
         },
