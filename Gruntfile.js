@@ -4,18 +4,16 @@ module.exports = function (grunt) {
     cssmin : {
       pc : {
         src : [
-          'css/bootstrap.css',
           'css/bootstrap-theme.css',
+          'css/bootstrap.css',
           'css/jquery-ui.css',
           'css/jquery-ui.structure.css',
           'css/jquery-ui.theme.css',
-          'css/jquery.maximage.css',
-          'css/tabulous.css',
-          'css/bootstrap-theme.css',
-          'css/bootstrap.css',
           'css/jquery.bxslider.css',
-          'css/main.css',
-          'css/normalize.css'
+          'css/jquery.maximage.css',
+          'css/normalize.css',
+          'css/tabulous.css',
+          'css/main.css'
         ],
         dest : 'css/build.min.css'
       }
