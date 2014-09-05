@@ -1,6 +1,17 @@
 module.exports = function (grunt) {
   var pkg = grunt.file.readJSON('package.json');
   grunt.initConfig({
+    htmlmin: {                                     // Task
+      dist: {                                      // Target
+        options: {                                 // Target options
+          removeComments: true,
+          collapseWhitespace: true
+        },
+        files: {
+          'index.html': 'index.org.html'
+        }
+      }
+    },
     cssmin : {
       pc : {
         src : [
@@ -62,5 +73,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.registerTask('default', ['concat', 'uglify', 'cssmin']);
+  grunt.loadNpmTasks('grunt-contrib-htmlmin');
+  grunt.registerTask('default', ['concat', 'uglify', 'cssmin', 'htmlmin']);
 };
