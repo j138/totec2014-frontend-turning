@@ -7,13 +7,17 @@ module.exports = function (grunt) {
                 // src : 'js/*.js',
                 src : 'js/jquery-ui.js',
                 src : 'js/jquery.cycle.all.js',
-                src : 'js/jquery.ellipsis.js',
                 src : 'js/jquery.heightLine.js',
-                src : 'js/jquery.maximage.js',
-                src : 'js/jquery.scrollto.js',
-                src : 'js/jquery.slides.js',
-                src : 'js/jquery.smarttruncation.js',
-                src : 'js/jquery.smoothScroll.js',
+                
+                // concat候補
+                // src : 'js/jquery.bxslider.js',
+                // src : 'js/jquery.ellipsis.js',
+                // src: 'js/jquery.localscroll.js',
+                // src : 'js/jquery.maximage.js',
+                // src : 'js/jquery.scrollto.js',
+                // src : 'js/jquery.slides.js',
+                // src : 'js/jquery.smarttruncation.js',
+                // src : 'js/jquery.smoothScroll.js',
                 // 出力ファイルの指定
                 dest: 'js/_jqlibs.js'
             }
