@@ -4,19 +4,19 @@ module.exports = function (grunt) {
         concat: {
             files: {
                 // 元ファイルの指定
-                // src : 'javascripts/*.js',
-                src : 'javascripts/jquery-ui.js',
-                src : 'javascripts/jquery.cycle.all.js',
-                src : 'javascripts/jquery.ellipsis.js',
-                src : 'javascripts/jquery.heightLine.js',
-                src : 'javascripts/jquery.localscroll.js',
-                src : 'javascripts/jquery.maximage.js',
-                src : 'javascripts/jquery.scrollto.js',
-                src : 'javascripts/jquery.slides.js',
-                src : 'javascripts/jquery.smarttruncation.js',
-                src : 'javascripts/jquery.smoothScroll.js',
+                // src : 'js/*.js',
+                src : 'js/jquery-ui.js',
+                src : 'js/jquery.cycle.all.js',
+                src : 'js/jquery.ellipsis.js',
+                src : 'js/jquery.heightLine.js',
+                src : 'js/jquery.localscroll.js',
+                src : 'js/jquery.maximage.js',
+                src : 'js/jquery.scrollto.js',
+                src : 'js/jquery.slides.js',
+                src : 'js/jquery.smarttruncation.js',
+                src : 'js/jquery.smoothScroll.js',
                 // 出力ファイルの指定
-                dest: 'javascripts/concat/jquerylibs.js'
+                dest: 'js/_jqlibs.js'
             }
         },
 
@@ -24,14 +24,14 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     // 出力ファイル: 元ファイル
-                    'javascripts/min/jquerylibs-min.js': 'javascripts/concat/jquerylibs.js'
+                    'js/_jqlibs-min.js': 'js/_jqlibs.js'
                 }
             }
         },
 
         watch: {
             js: {
-                files: 'javascripts/*.js',
+                files: 'js/*.js',
                 tasks: ['concat', 'uglify']
             }
         }
