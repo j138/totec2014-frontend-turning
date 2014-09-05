@@ -2334,3 +2334,7 @@ body {
   font-size: 10px;
   color: #dedede;
 }
+.Visual > p > img {
+  width: 1280px;
+  height: 870px;
+}
