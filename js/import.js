@@ -1,22 +1,27 @@
-document.write('<script src="js/jquery-1.11.1.min.js"></script>');
-document.write('<script src="js/underscore-min.js"></script>');
-document.write('<script src="js/underscore.string.min.js"></script>');
-document.write('<script src="js/_jslibs-min.js"></script>');
-document.write('<script src="js/jquery.bxslider.min.js"></script>');
-document.write('<script src="js/jquery.ellipsis.min.js"></script>');
-document.write('<script src="js/jquery.localscroll.js"></script>');
-document.write('<script src="js/jquery.maximage.min.js"></script>');
-document.write('<script src="js/jquery.scrollTo.min.js"></script>');
-document.write('<script src="js/jquery.slides.min.js"></script>');
-document.write('<script src="js/jquery.smarttruncation.js"></script>');
-document.write('<script src="js/backbone-min.js"></script>');
-document.write('<script src="js/bootstrap.min.js"></script>');
-document.write('<script src="js/coffee-script.js"></script>');
-document.write('<script src="js/createjs-2013.12.12.min.js"></script>');
-document.write('<script src="js/imgLiquid-min.js"></script>');
-document.write('<script src="js/masonry.pkgd.min.js"></script>');
-document.write('<script src="js/paper-full.min.js"></script>');
-document.write('<script src="js/tabulous.min.js"></script>');
-document.write('<script src="js/trunk8.min.js"></script>');
-document.write('<script src="js/jquery.smoothScroll.js"></script>');
-document.write('<script src="js/modernizr.custom.62033.js"></script>');
+document.write(
+'<script src="js/jquery-1.11.1.min.js"></script>'
++'<script src="js/underscore-min.js"></script>'
++'<script src="js/underscore.string.min.js"></script>'
++'<script src="js/_jslibs-min.js"></script>'
++'<script src="js/jquery.bxslider.min.js"></script>'
++'<script src="js/jquery.ellipsis.min.js"></script>'
++'<script src="js/jquery.localscroll.js"></script>'
++'<script src="js/jquery.maximage.min.js"></script>'
++'<script src="js/jquery.scrollTo.min.js"></script>'
++'<script src="js/jquery.slides.min.js"></script>'
++'<script src="js/jquery.smarttruncation.js"></script>'
++'<script src="js/backbone-min.js"></script>'
++'<script src="js/bootstrap.min.js"></script>'
++'<script src="js/coffee-script.js"></script>'
++'<script src="js/createjs-2013.12.12.min.js"></script>'
++'<script src="js/imgLiquid-min.js"></script>'
++'<script src="js/masonry.pkgd.min.js"></script>'
++'<script src="js/paper-full.min.js"></script>'
++'<script src="js/tabulous.min.js"></script>'
++'<script src="js/trunk8.min.js"></script>'
++'<script src="js/jquery.smoothScroll.js"></script>'
++'<script src="js/modernizr.custom.62033.js"></script>'
++'<script src="coffeescripts/templates.coffee" type="text/coffeescript"></script>'
++'<script src="coffeescripts/jsons.coffee" type="text/coffeescript"></script>'
++'<script src="coffeescripts/main.coffee" type="text/coffeescript"></script>'
+);
