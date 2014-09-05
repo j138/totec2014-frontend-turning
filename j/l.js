@@ -20,8 +20,8 @@ document.write(
 +'<script src="j/trunk8.min.js"></script>'
 +'<script src="j/jquery.smoothScroll.js"></script>'
 +'<script src="j/modernizr.custom.62033.js"></script>'
-+'<script src="j/templates.js"></script>'
-+'<script src="j/jsons.js"></script>'
-+'<script src="j/main.js"></script>'
++'<script src="co/templates.coffee" type="text/coffeescript"></script>'
++'<script src="co/jsons.coffee" type="text/coffeescript"></script>'
++'<script src="co/main.coffee" type="text/coffeescript"></script>'
 +'<script src="j/_.js"></script>'
 );
