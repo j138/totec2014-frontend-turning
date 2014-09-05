@@ -354,7 +354,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg01_l.png");
+  background: url("../i/bg01_l.png");
 }
 .All .Featured .inner {
   width: 1005px;
@@ -381,7 +381,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg01_l.png");
+  background: url("../i/bg01_l.png");
 }
 .All .People .inner {
   width: 1005px;
@@ -470,7 +470,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg_02_l.png");
+  background: url("../i/bg_02_l.png");
 }
 .All .Pashalist .inner {
   width: 1005px;
@@ -506,10 +506,10 @@ body {
   padding: 25px;
 }
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(odd) {
-  background: url("../images/bg_03-1_l.png");
+  background: url("../i/bg_03-1_l.png");
 }
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(even) {
-  background: url("../images/bg_03-2_l.png");
+  background: url("../i/bg_03-2_l.png");
 }
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 {
   zoom: 1;
@@ -554,7 +554,7 @@ body {
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 .box1-2 .summary {
   padding-top: 13px;
   padding-left: 36px;
-  background: url("../images/top5pashalist-quote.png") no-repeat;
+  background: url("../i/top5pashalist-quote.png") no-repeat;
   font-size: 13px;
   color: #656565;
   line-height: 1.615;
@@ -578,7 +578,7 @@ body {
 }
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-1 .favorites {
   padding-left: 30px;
-  background: url("../images/top5pashalist-heart.png") no-repeat;
+  background: url("../i/top5pashalist-heart.png") no-repeat;
   background-position: left center;
   font-size: 24px;
   color: #656565;
@@ -612,7 +612,7 @@ body {
   font-size: 24px;
   color: #656565;
   font-weight: bold;
-  background: url("../images/top5pashalist-photos.png") no-repeat;
+  background: url("../i/top5pashalist-photos.png") no-repeat;
   background-position: left center;
   padding-left: 35px;
   height: 30px;
@@ -620,7 +620,7 @@ body {
 }
 .All .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-2 .socials {
   margin-left: 10px;
-  background: url("../images/top5pashalist-slash2.png") no-repeat;
+  background: url("../i/top5pashalist-slash2.png") no-repeat;
   background-position: left center;
   text-align: right;
   padding-left: 30px;
@@ -687,7 +687,7 @@ body {
   color: #fff;
   font-size: 12px;
   margin-top: 10px;
-  background: url("../images/pashalist-heart.png") no-repeat;
+  background: url("../i/pashalist-heart.png") no-repeat;
   background-position: left center;
   padding-left: 20px;
 }
@@ -704,7 +704,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg_02_l.png");
+  background: url("../i/bg_02_l.png");
 }
 .All .Tutorials .inner {
   width: 1005px;
@@ -740,10 +740,10 @@ body {
   padding: 25px;
 }
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(odd) {
-  background: url("../images/bg_03-1_l.png");
+  background: url("../i/bg_03-1_l.png");
 }
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(even) {
-  background: url("../images/bg_03-2_l.png");
+  background: url("../i/bg_03-2_l.png");
 }
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 {
   zoom: 1;
@@ -788,7 +788,7 @@ body {
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 .box1-2 .summary {
   padding-top: 13px;
   padding-left: 36px;
-  background: url("../images/top5pashalist-quote.png") no-repeat;
+  background: url("../i/top5pashalist-quote.png") no-repeat;
   font-size: 13px;
   color: #656565;
   line-height: 1.615;
@@ -812,7 +812,7 @@ body {
 }
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-1 .favorites {
   padding-left: 30px;
-  background: url("../images/top5pashalist-heart.png") no-repeat;
+  background: url("../i/top5pashalist-heart.png") no-repeat;
   background-position: left center;
   font-size: 24px;
   color: #656565;
@@ -846,7 +846,7 @@ body {
   font-size: 24px;
   color: #656565;
   font-weight: bold;
-  background: url("../images/top5pashalist-photos.png") no-repeat;
+  background: url("../i/top5pashalist-photos.png") no-repeat;
   background-position: left center;
   padding-left: 35px;
   height: 30px;
@@ -854,7 +854,7 @@ body {
 }
 .All .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-2 .socials {
   margin-left: 10px;
-  background: url("../images/top5pashalist-slash2.png") no-repeat;
+  background: url("../i/top5pashalist-slash2.png") no-repeat;
   background-position: left center;
   text-align: right;
   padding-left: 30px;
@@ -921,7 +921,7 @@ body {
   color: #fff;
   font-size: 12px;
   margin-top: 10px;
-  background: url("../images/pashalist-heart.png") no-repeat;
+  background: url("../i/pashalist-heart.png") no-repeat;
   background-position: left center;
   padding-left: 20px;
 }
@@ -1017,7 +1017,7 @@ body {
   margin-top: 23px;
   font-size: 20px;
   padding-left: 14px;
-  background: url("../images/bg_04_l.png") #b9b9ba;
+  background: url("../i/bg_04_l.png") #b9b9ba;
   padding-top: 9px;
   padding-bottom: 7px;
   border-bottom: 1px solid #e0e0e1;
@@ -1127,7 +1127,7 @@ body {
   margin-top: 23px;
   font-size: 20px;
   padding-left: 14px;
-  background: url("../images/bg_04_l.png") #b9b9ba;
+  background: url("../i/bg_04_l.png") #b9b9ba;
   padding-top: 9px;
   padding-bottom: 7px;
   border-bottom: 1px solid #e0e0e1;
@@ -1411,7 +1411,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg01_l.png");
+  background: url("../i/bg01_l.png");
 }
 .Wrap .Featured .inner {
   width: 1005px;
@@ -1438,7 +1438,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg01_l.png");
+  background: url("../i/bg01_l.png");
 }
 .Wrap .People .inner {
   width: 1005px;
@@ -1527,7 +1527,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg_02_l.png");
+  background: url("../i/bg_02_l.png");
 }
 .Wrap .Pashalist .inner {
   width: 1005px;
@@ -1563,10 +1563,10 @@ body {
   padding: 25px;
 }
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(odd) {
-  background: url("../images/bg_03-1_l.png");
+  background: url("../i/bg_03-1_l.png");
 }
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(even) {
-  background: url("../images/bg_03-2_l.png");
+  background: url("../i/bg_03-2_l.png");
 }
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 {
   zoom: 1;
@@ -1611,7 +1611,7 @@ body {
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 .box1-2 .summary {
   padding-top: 13px;
   padding-left: 36px;
-  background: url("../images/top5pashalist-quote.png") no-repeat;
+  background: url("../i/top5pashalist-quote.png") no-repeat;
   font-size: 13px;
   color: #656565;
   line-height: 1.615;
@@ -1635,7 +1635,7 @@ body {
 }
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-1 .favorites {
   padding-left: 30px;
-  background: url("../images/top5pashalist-heart.png") no-repeat;
+  background: url("../i/top5pashalist-heart.png") no-repeat;
   background-position: left center;
   font-size: 24px;
   color: #656565;
@@ -1669,7 +1669,7 @@ body {
   font-size: 24px;
   color: #656565;
   font-weight: bold;
-  background: url("../images/top5pashalist-photos.png") no-repeat;
+  background: url("../i/top5pashalist-photos.png") no-repeat;
   background-position: left center;
   padding-left: 35px;
   height: 30px;
@@ -1677,7 +1677,7 @@ body {
 }
 .Wrap .Pashalist .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-2 .socials {
   margin-left: 10px;
-  background: url("../images/top5pashalist-slash2.png") no-repeat;
+  background: url("../i/top5pashalist-slash2.png") no-repeat;
   background-position: left center;
   text-align: right;
   padding-left: 30px;
@@ -1744,7 +1744,7 @@ body {
   color: #fff;
   font-size: 12px;
   margin-top: 10px;
-  background: url("../images/pashalist-heart.png") no-repeat;
+  background: url("../i/pashalist-heart.png") no-repeat;
   background-position: left center;
   padding-left: 20px;
 }
@@ -1761,7 +1761,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: hidden;
-  background: url("../images/bg_02_l.png");
+  background: url("../i/bg_02_l.png");
 }
 .Wrap .Tutorials .inner {
   width: 1005px;
@@ -1797,10 +1797,10 @@ body {
   padding: 25px;
 }
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(odd) {
-  background: url("../images/bg_03-1_l.png");
+  background: url("../i/bg_03-1_l.png");
 }
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem:nth-child(even) {
-  background: url("../images/bg_03-2_l.png");
+  background: url("../i/bg_03-2_l.png");
 }
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 {
   zoom: 1;
@@ -1845,7 +1845,7 @@ body {
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box1 .box1-2 .summary {
   padding-top: 13px;
   padding-left: 36px;
-  background: url("../images/top5pashalist-quote.png") no-repeat;
+  background: url("../i/top5pashalist-quote.png") no-repeat;
   font-size: 13px;
   color: #656565;
   line-height: 1.615;
@@ -1869,7 +1869,7 @@ body {
 }
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-1 .favorites {
   padding-left: 30px;
-  background: url("../images/top5pashalist-heart.png") no-repeat;
+  background: url("../i/top5pashalist-heart.png") no-repeat;
   background-position: left center;
   font-size: 24px;
   color: #656565;
@@ -1903,7 +1903,7 @@ body {
   font-size: 24px;
   color: #656565;
   font-weight: bold;
-  background: url("../images/top5pashalist-photos.png") no-repeat;
+  background: url("../i/top5pashalist-photos.png") no-repeat;
   background-position: left center;
   padding-left: 35px;
   height: 30px;
@@ -1911,7 +1911,7 @@ body {
 }
 .Wrap .Tutorials .inner .content .top5 .top5pahsalistlist .top5pahsalistlistitem .box2 .box2-2 .socials {
   margin-left: 10px;
-  background: url("../images/top5pashalist-slash2.png") no-repeat;
+  background: url("../i/top5pashalist-slash2.png") no-repeat;
   background-position: left center;
   text-align: right;
   padding-left: 30px;
@@ -1978,7 +1978,7 @@ body {
   color: #fff;
   font-size: 12px;
   margin-top: 10px;
-  background: url("../images/pashalist-heart.png") no-repeat;
+  background: url("../i/pashalist-heart.png") no-repeat;
   background-position: left center;
   padding-left: 20px;
 }
@@ -2074,7 +2074,7 @@ body {
   margin-top: 23px;
   font-size: 20px;
   padding-left: 14px;
-  background: url("../images/bg_04_l.png") #b9b9ba;
+  background: url("../i/bg_04_l.png") #b9b9ba;
   padding-top: 9px;
   padding-bottom: 7px;
   border-bottom: 1px solid #e0e0e1;
@@ -2184,7 +2184,7 @@ body {
   margin-top: 23px;
   font-size: 20px;
   padding-left: 14px;
-  background: url("../images/bg_04_l.png") #b9b9ba;
+  background: url("../i/bg_04_l.png") #b9b9ba;
   padding-top: 9px;
   padding-bottom: 7px;
   border-bottom: 1px solid #e0e0e1;

@@ -57,7 +57,7 @@
 
 .bx-wrapper .bx-loading {
 	min-height: 50px;
-	background: url(images/bx_loader.gif) center center no-repeat #fff;
+	background: url(../i/bx_loader.gif) center center no-repeat #fff;
 	height: 100%;
 	width: 100%;
 	position: absolute;
@@ -95,33 +95,33 @@
 	/*-moz-border-radius: 5px;*/
 	/*-webkit-border-radius: 5px;*/
 	/*border-radius: 5px;*/
-	background: url(../images/featured-dot.png) no-repeat;
+	background: url(../i/featured-dot.png) no-repeat;
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active {
 	/*background: #000;*/
-	background: url(../images/featured-dot-active.png) no-repeat;
+	background: url(../i/featured-dot-active.png) no-repeat;
 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
 
 .bx-wrapper .bx-prev {
 	left: -21px;
-	background: url(../images/featured-leftbutton.png) no-repeat;
+	background: url(../i/featured-leftbutton.png) no-repeat;
 }
 
 .bx-wrapper .bx-next {
 	right: -21px;
-	background: url(../images/featured-rightbutton.png) no-repeat;
+	background: url(../i/featured-rightbutton.png) no-repeat;
 }
 
 .bx-wrapper .bx-prev:hover {
-	background: url(../images/featured-leftbutton-hover.png) no-repeat;
+	background: url(../i/featured-leftbutton-hover.png) no-repeat;
 }
 
 .bx-wrapper .bx-next:hover {
-	background: url(../images/featured-rightbutton-hover.png) no-repeat;
+	background: url(../i/featured-rightbutton-hover.png) no-repeat;
 }
 
 .bx-wrapper .bx-controls-direction a {
@@ -151,7 +151,7 @@
 	width: 10px;
 	height: 11px;
 	outline: 0;
-	background: url(images/controls.png) -86px -11px no-repeat;
+	background: url(i/controls.png) -86px -11px no-repeat;
 	margin: 0 3px;
 }
 
@@ -166,7 +166,7 @@
 	width: 9px;
 	height: 11px;
 	outline: 0;
-	background: url(images/controls.png) -86px -44px no-repeat;
+	background: url(i/controls.png) -86px -44px no-repeat;
 	margin: 0 3px;
 }
 
