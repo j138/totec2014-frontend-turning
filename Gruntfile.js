@@ -1,6 +1,13 @@
 module.exports = function (grunt) {
   var pkg = grunt.file.readJSON('package.json');
   grunt.initConfig({
+    uncss: {
+      dist: {
+        files: {
+          'c/tidy.css': ['index.html', 'index.org.html']
+        }
+      }
+    },
     htmlmin: {                                     // Task
       dist: {                                      // Target
         options: {                                 // Target options
@@ -24,7 +31,8 @@ module.exports = function (grunt) {
           'c/jquery.maximage.css',
           'c/normalize.css',
           'c/tabulous.css',
-          'c/main.css'
+          // 'c/main.css',
+          'c/tidy.css'
         ],
         dest : 'c/all.css'
       }
@@ -74,5 +82,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-htmlmin');
+  grunt.loadNpmTasks('grunt-uncss');
   grunt.registerTask('default', ['concat', 'uglify', 'cssmin', 'htmlmin']);
 };
