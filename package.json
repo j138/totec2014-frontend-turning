@@ -4,16 +4,16 @@
   "description": "9Tustxg =======",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.0.1",
     "grunt-bower-task": "^0.4.0",
-    "grunt-contrib-concat": "^0.5.0",
-    "grunt-contrib-uglify": "^0.5.1",
-    "grunt-contrib-watch": "^0.6.1"
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
   },
   "devDependencies": {
-    "grunt-contrib-cssmin": "^0.10.0",
-    "grunt-contrib-htmlmin": "^0.3.0",
-    "grunt-uncss": "^0.3.6"
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-uncss": "^0.6.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
